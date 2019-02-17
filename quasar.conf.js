@@ -38,7 +38,8 @@ module.exports = function (ctx) {
         'QItem',
         'QItemSection',
         'QItemLabel',
-        'QExpansionItem'
+        'QExpansionItem',
+        'QSeparator'
       ],
 
       directives: [

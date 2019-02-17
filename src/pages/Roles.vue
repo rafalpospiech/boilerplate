@@ -1,14 +1,14 @@
 <template>
   <q-page class="flex flex-center">
-    <h1>Summary</h1>
+    <h1>Roles</h1>
   </q-page>
 </template>
 
-<style>
-</style>
-
 <script>
 export default {
-  name: 'PageIndex'
+  name: 'Roles',
 }
 </script>
+
+<style>
+</style>
